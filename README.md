@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Sunita Shah  
 
-<!--
-**Sunuz-078/Sunuz-078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity & Digital Forensics Student  
+💻 Full-Stack Web Developer (PHP | JavaScript | MySQL)  
+🔐 Interested in Secure Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+
+I am a cybersecurity student with a strong interest in **full-stack web development**.  
+I enjoy building **responsive, user-friendly, and secure web applications** using modern web technologies.
+
+Currently, I am:
+- Working on full-stack development projects    
+- Learning secure coding and web application security  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Frontend**
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
+
+**Backend**
+- PHP  
+- MySQL  
+
+**Tools & Others**
+- Git & GitHub  
+- Basic Python  
+- Secure Coding Basics  
+
+---
+
+## 📂 Featured Projects  
+
+🔹 **E-commerce Website**  
+- Built using PHP, MySQL, JavaScript, Bootstrap  
+- User authentication, product listing, cart system  
+- Focus on clean UI and secure form handling  
+
+🔹 **E-Portfolio Website**  
+- Personal portfolio built with HTML, CSS, Bootstrap  
+- Responsive design  
+- Showcases projects and skills  
+
+👉 Check my repositories to see more projects!
+
+---
+
+## 🎯 Currently Learning  
+
+- Advanced PHP & MySQL  
+- JavaScript DOM manipulation  
+- Web application security fundamentals  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: rayasu823@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sunitashah07  
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
+
