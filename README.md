@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sunita Shah  
 
 🎓 Cybersecurity & Digital Forensics Student  
-💻 Full-Stack Web Developer (PHP | JavaScript | MySQL)  
+💻 Full-Stack Web Developer (Python | JavaScript | MySQL)  
 🔐 Interested in Secure Web Development  
 
 ---
@@ -23,10 +23,11 @@ Currently, I am:
 - HTML5  
 - CSS3  
 - Bootstrap  
-- JavaScript  
+- JavaScript
+- React.js  
 
 **Backend**
-- PHP  
+- Python  
 - MySQL  
 
 **Tools & Others**
@@ -54,7 +55,7 @@ Currently, I am:
 
 ## 🎯 Currently Learning  
 
-- Advanced PHP & MySQL  
+- Advanced Python & MySQL  
 - JavaScript DOM manipulation  
 - Web application security fundamentals  
 
